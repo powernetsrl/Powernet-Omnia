@@ -25,7 +25,7 @@
     "externalId" : null,
     "firmwareId" : {
       "entityType" : "OTA_PACKAGE",
-      "id" : "473718f0-ec40-11ef-b4ae-e107633f8d8a"
+      "id" : "0b9d40e0-ec62-11ef-b4ae-e107633f8d8a"
     },
     "id" : {
       "entityType" : "DEVICE",
@@ -48,7 +48,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "active",
-      "lastUpdateTs" : 1739637513371,
+      "lastUpdateTs" : 1739706817608,
       "longValue" : null,
       "strValue" : null
     }, {
@@ -56,40 +56,40 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_id",
-      "lastUpdateTs" : 1739694652409,
+      "lastUpdateTs" : 1739709144113,
       "longValue" : null,
-      "strValue" : "473718f0-ec40-11ef-b4ae-e107633f8d8a"
+      "strValue" : "0b9d40e0-ec62-11ef-b4ae-e107633f8d8a"
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "inactivityAlarmTime",
-      "lastUpdateTs" : 1739552929393,
-      "longValue" : 1739552929393,
+      "lastUpdateTs" : 1739705151423,
+      "longValue" : 1739705151423,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastActivityTime",
-      "lastUpdateTs" : 1739696089996,
-      "longValue" : 1739696089857,
+      "lastUpdateTs" : 1739709223993,
+      "longValue" : 1739709223754,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastConnectTime",
-      "lastUpdateTs" : 1739694543571,
-      "longValue" : 1739694543570,
+      "lastUpdateTs" : 1739709079913,
+      "longValue" : 1739709079913,
       "strValue" : null
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "lastDisconnectTime",
-      "lastUpdateTs" : 1739694543492,
-      "longValue" : 1739694543492,
+      "lastUpdateTs" : 1739704549996,
+      "longValue" : 1739704549996,
       "strValue" : null
     } ],
     "SHARED_SCOPE" : [ {
@@ -113,7 +113,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_checksum",
-      "lastUpdateTs" : 1739694652409,
+      "lastUpdateTs" : 1739709144113,
       "longValue" : null,
       "strValue" : "0fafaea9cb0052a0a9c2c7060e860339826586bbb9b86a123e1fddd9b9a42e8c"
     }, {
@@ -121,7 +121,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_checksum_algorithm",
-      "lastUpdateTs" : 1739694652409,
+      "lastUpdateTs" : 1739709144113,
       "longValue" : null,
       "strValue" : "SHA256"
     }, {
@@ -129,7 +129,7 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_size",
-      "lastUpdateTs" : 1739694652409,
+      "lastUpdateTs" : 1739709144113,
       "longValue" : 412608,
       "strValue" : null
     }, {
@@ -137,25 +137,33 @@
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_tag",
-      "lastUpdateTs" : 1739694652409,
+      "lastUpdateTs" : 1739709144113,
       "longValue" : null,
-      "strValue" : "1.0.1 1.0.1"
+      "strValue" : "1.0.3"
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_title",
-      "lastUpdateTs" : 1739694652409,
+      "lastUpdateTs" : 1739709144113,
       "longValue" : null,
-      "strValue" : "1.0.1"
+      "strValue" : "1.0.3"
     }, {
       "booleanValue" : null,
       "doubleValue" : null,
       "jsonValue" : null,
       "key" : "fw_version",
-      "lastUpdateTs" : 1739694652409,
+      "lastUpdateTs" : 1739709144113,
       "longValue" : null,
-      "strValue" : "1.0.1"
+      "strValue" : "1.0.3"
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : "{\"method\":\"ota_update\",\"params\":{\"firmware_url\":\"http://mio_server/firmware.binhttps://github.com/powernetsrl/Powernet-Omnia/tree/firmware/1.0.3\"}}",
+      "key" : "ota_update",
+      "lastUpdateTs" : 1739708989324,
+      "longValue" : null,
+      "strValue" : null
     }, {
       "booleanValue" : true,
       "doubleValue" : null,
